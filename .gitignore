@@ -1,0 +1,22 @@
+# Byte-compiled / optimised
+__pycache__/
+*.py[cod]
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage/
+.cache
+nosetests.xml
+coverage.xml
+
+# Editors
+*.sublime-project
+*.sublime-workspace
+*.sw[po]
+
+# Documentation
+docs/_build/
+
+# Et cetera
+*.log

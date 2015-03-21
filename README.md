@@ -11,3 +11,7 @@ We aim to be compatible with the following Python versions:
 * Python 3.3
 * Python 3.4
 * PyPy
+
+Contact
+---
+I, Jeppe Klitgaard, can be contacted on this GitHub page and on my email: [jeppe@dapj.dk](mailto:jeppe@dapj.dk).

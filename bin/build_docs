@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -e
+rm -rf docs/_build* docs/source/*
+sphinx-apidoc -f -o docs/source minecraft
+cd docs
+make html
+cd ..
